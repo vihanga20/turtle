@@ -1,18 +1,16 @@
-@@ -1,5 +1,4 @@
 <h1 align="center"><b> 👒QUEEN LANKAl(C-K)👒 </b></h1>
 
 <p align="center"><b> 👒QUEEN LANKAl(C-K)👒 </b></h1>
 
-<img
-        src="https://readme-typing-svg.herokuapp.com/?size=33&width=890&lines=Click+On+Install+The+queen+lanka+Bot."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70072&width=435&lines=try+out+this+code" alt="Typing SVG" /></a>
+
+<a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Contact" title="Repo users">
+
+<img src="https://readme-typing-svg.herokuapp.com/?size=33&width=890&lines=Click+On+Install+The+queen+lanka+Bot." alt="Typing SVG"/> </a> </p>
     
 <h1 align="center"><b> 🧚‍♀️QUEEN LANKA(ᴠɪᴘ) </b></h1>
 <a href="https://Wa.me/+94702256963">
-    <img src="https://i.ibb.co/K0mtpng/cad6199fcc853471766c962341daa092.jpg" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+    <img src="https://avatars.githubusercontent.com/u/75985679?v=4" alt="cad6199fcc853471766c962341daa092" border="0"></a>
     
  ***C-k_SHAN(CHAMOD😈)***
 <a href="https://Wa.me/+94702256963">
