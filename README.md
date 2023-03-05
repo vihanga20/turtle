@@ -8,7 +8,7 @@
     
 <h1 align="center"><b> 🐢 Turtle simple cods 🐢 </b></h1>
 <a href="https://Wa.me/+94702256963">
-    <img src="[https://avatars.githubusercontent.com/u/75985679?v=4](https://r7.hiclipart.com/path/111/174/442/turtle-emoji-android-oreo-turtle-dd019aec5f78d752a27a3fa12c920ff4.png?dl=1" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+    <img src="https://avatars.githubusercontent.com/u/75985679?v=4](https://r7.hiclipart.com/path/111/174/442/turtle-emoji-android-oreo-turtle-dd019aec5f78d752a27a3fa12c920ff4.png?dl=1" alt="cad6199fcc853471766c962341daa092" border="0"></a>
     
  ***Kaveen Adithya***
 <a href="https://Wa.me/+94728858672">
