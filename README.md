@@ -1,38 +1,28 @@
-<h1 align="center"><b> 👒QUEEN LANKAl(C-K)👒 </b></h1>
+<h1 align="center"><b> 🐢 Turtle cods 🐢 </b></h1>
 
-<p align="center"><b> 👒QUEEN LANKAl(C-K)👒 </b></h1>
+<p align="center"><b> 🐢 Turtle cods 🐢 </b></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70072&width=435&lines=try+out+this+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=500&color=F70072&center=true&width=435&lines=try+out+this+code" alt="Typing SVG" /></a>
 
 <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Contact" title="Repo users">
-
-<img src="https://readme-typing-svg.herokuapp.com/?size=33&width=890&lines=Click+On+Install+The+queen+lanka+Bot." alt="Typing SVG"/> </a> </p>
     
-<h1 align="center"><b> 🧚‍♀️QUEEN LANKA(ᴠɪᴘ) </b></h1>
+<h1 align="center"><b> 🧚‍🐢 Turtle simple cods 🐢 </b></h1>
 <a href="https://Wa.me/+94702256963">
     <img src="https://avatars.githubusercontent.com/u/75985679?v=4" alt="cad6199fcc853471766c962341daa092" border="0"></a>
     
- ***C-k_SHAN(CHAMOD😈)***
-<a href="https://Wa.me/+94702256963">
-    <img src="https://img.shields.io/badge/FindOn%20owner-purple&style=plastic">
+ ***Kaveen Adithya***
+<a href="https://Wa.me/+94728858672">
+    <img src="https://img.shields.io/badge/Contact-Owner-green?style=plastic&logo=appveyor">
         
 ### [INSTALLED BOT]
 ```
-QUEEN LANKA bot install කරගැනීමට ඔබට උපාංග දෙකක් අවශ්‍ය වේ!
-එක් උපාංගයක පැහැදිලි came (කැමරාව) එකක් තිබිය යුතුය.
-එය ඔබ bot සාදන whatsapp account එක තිබෙන උපාංගයද විය යුතුය.
-අනිත් උපාංගය අවශ්‍ය වන්නේ qr code එක ගැනීමට පමණි.
-පලමු උපාංගයෙන් දෙවන උපාංගයේ qr code එක whatsapp web මගින් scan කර යුතුය.
-ඉන්පසු ඔබට උපාංග දෙකක් අතවශ්‍ය නොවේ.
-ඔබ පලමු උපාංගයේ bot install කර යුත්තේ..
-```      
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sasmithasevidu/QUEEN-LANKA-CK)
+turtle මොඩියුල් එක use කරල කරන්න පුලුවන් සරලම දේවල් ටිකක්.
+පොඩි ස්කිරිප්ට් ටිකක කොඩ් තියෙන්නෙ එවා බලලා තේරුම් ගන්න පුලුවන්.
+පයිතන් ඉගෙන ගන්න අයට පොඩිහරි උදව්වක් වෙයි කියලහිතනව මන්.
+```
 
 <p align="center">
 
-## `QR CODE SCANIN`
+## `Thank you for the Waching`
 
-[`qr code scanin`](https://replit.com/@HYPER-MOD/Queen-Alexa-QR-Code)
-
-### 🚫CLOSED PROJECT
+### 🚫 END PROJECT 🚫
