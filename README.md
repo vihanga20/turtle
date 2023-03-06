@@ -2,7 +2,7 @@
 
 <p align="center"><b> 🐢 Turtle cods 🐢 </b></h1>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=500&color=B4F700&center=true&width=435&lines=try+out+this+code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=3000&pause=2000&color=ABF700&center=true&vCenter=true&width=435&lines=TRY+THIS+CODES" alt="Typing SVG" /></a>
 
 <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Contact" title="Repo users">
     
