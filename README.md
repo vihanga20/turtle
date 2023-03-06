@@ -25,4 +25,4 @@ python ඉගෙන ගන්න අයට පොඩිහරි උදව්ව
 
 ## `Thank you for the Waching`
 
-### END PROJECT <img src="https://www.mediafire.com/view/uvs8wwckoczdfcv/4375050_logo_python_icon.png" alt="cad6199fcc853471766c962341daa092" border="0"></a>
+### END PROJECT <img src="https://www.mediafire.com/view/uvs8wwckoczdfcv/4375050_logo_python_icon.png/file" border="0"></a>
