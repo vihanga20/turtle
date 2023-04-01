@@ -26,4 +26,4 @@ python ඉගෙන ගන්න අයට පොඩිහරි උදව්ව
 ## `Thank you for the Waching`
 
 ### END PROJECT 
-### <a href="https://www.python.org/"><img src="https://download850.mediafire.com/apgafl8rznugh__hvVSVfdIipdPGg-BWEYSSY6E7yl68JmP-9etAoaM02i1Oqtv4NIQCsxGgARpDw4oQ4l8wuDk6QzsCZw/jxxuajr2jujswqb/4375050_logo_python_icon+%282%29.png" alt="python" border="0"></a>
+### <a href="https://www.python.org/"><img src="https://www.python.org/static/img/python-logo.png" alt="python" border="0"></a>
